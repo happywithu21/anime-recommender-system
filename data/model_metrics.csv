@@ -1,0 +1,4 @@
+metric,value
+RMSE,6.857396770579693
+Precision@10,0.05
+Recall@10,0.5
